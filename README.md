@@ -14,6 +14,14 @@ data: cancelled orders, negative prices, missing customer identifiers, and
 operational line items mixed in with actual product sales. Handling this
 correctly, rather than blindly dropping rows, was a core part of the work.
 
+## Data
+
+The full dataset is not included in this repository because of its size.
+A small sample (`data/sample_sales.csv`, 1000 rows) is provided so the
+pipeline can be run and tested straight away. To work with the complete
+data, download the UCI Online Retail II dataset from Kaggle and place the
+CSV in the `data/` folder.
+
 ## Objectives
 
 The pipeline is designed to answer three practical questions a business

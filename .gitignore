@@ -1,8 +1,9 @@
 # Virtual environment
 venv/
 
-# Data files (too large for GitHub, regenerate locally)
-data/
+# Data files (large, regenerate locally) — but keep the small sample
+data/*
+!data/sample_sales.csv
 
 # Python cache
 __pycache__/
