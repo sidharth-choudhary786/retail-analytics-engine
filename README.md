@@ -80,6 +80,13 @@ The work is split into clear, ordered stages, each in its own script:
 
 Python, Pandas, NumPy, Matplotlib.
 
-## Author
 
-Sidharth Choudhary
+### Sidharth Choudhary
+**Email**: jattsidh786@gmail.com
+
+**LinkedIn**: [Sidharth Choudhary](https://www.linkedin.com/in/sidharthjatt)
+
+**GitHub**: [Sidharth Choudhary](https://github.com/sidharthjatt)
+
+**Website**: [Sidharth Choudhary](https://www.sidharthjatt.com)
+
